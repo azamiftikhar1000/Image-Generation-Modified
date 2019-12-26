@@ -11,3 +11,6 @@ It will have two main components:
 2.	Image Generator:
 
 Currently, the model is trained on Cityscape dataset. We will use transfer learning and then train the model using CoCo dataset.
+
+
+<b>For more details, refer to "Image Generator Architecture.docx" file </b>
